@@ -178,7 +178,7 @@ Then open your browser and go to: **http://localhost:8000**
 ---
 ## 👤 Author
 
-- **Name:** Mohaned Mostafa  
+- **Name:** Mohanad Mostafa  
 - **College:** BFCAI  
 - **Course:** Neural Networks
 
