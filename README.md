@@ -13,6 +13,8 @@ A deep learning web application that classifies brain MRI scans into four catego
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
+- [Results](#results)
+- [Future Improvements](#future-improvements)
 
 ---
 
